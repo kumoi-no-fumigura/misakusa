@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/misakusa",
  "yomi": "みくさしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文政10年（1827）頃",
+  "author": "松平定信（1759〜1829）",
+  "desc": "寛政の改革を行った老中松平定信の家集。楽翁と号した晩年に、文化の初めから文政7年頃までの歌を自ら書き記して定和に与えたと本文にいう。"
+ },
  "editions": [
   {
    "pid": "993385",
